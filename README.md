@@ -9,7 +9,7 @@
 
 An institutional artificial intelligence platform that identifies interdisciplinary university research opportunities across departmental silos. The platform combines **Semantic Networks (NetworkX)**, **Thematic Clustering (K-Means & Agglomerative)**, **Dense Semantic Vector Matching (Latent Semantic Analysis)**, and an **Extractive Retrieval-Augmented Generation (RAG)** pipeline to discover, rank, and explain cross-school faculty collaborations with grounded publication citations.
 
-Deployed link: https://cross-school-research-collaboration.onrender.com/collaborations 
+Deployed link: https://cross-school-research-collaboration.onrender.com/ 
 
 ---
 
